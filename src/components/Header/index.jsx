@@ -8,7 +8,7 @@ const Header = props => {
         <header className='header'>
             <div className="wrap">
                 <div className="logo">
-                    <Link to="/" target='_blank'>
+                    <Link to="/">
                         <img src={Logo} alt="AD Store Logo" />
                     </Link>
                 </div>
